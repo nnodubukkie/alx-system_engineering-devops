@@ -1,1 +1,1 @@
-write iamafile
+creating symbols
