@@ -1,1 +1,1 @@
-create directory
+commas not period
