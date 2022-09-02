@@ -1,1 +1,1 @@
-move uppercase
+remove *~
