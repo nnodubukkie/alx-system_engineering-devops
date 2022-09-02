@@ -1,1 +1,1 @@
-remove *~
+create directory
