@@ -1,1 +1,1 @@
-owner&grp
+symbolic links
