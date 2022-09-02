@@ -1,2 +1,1 @@
-#!/bin/bash
  echo -e '0 string SCHOOL School data\n!:mime School'>school
