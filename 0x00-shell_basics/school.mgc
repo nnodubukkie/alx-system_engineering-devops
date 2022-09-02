@@ -1,2 +1,2 @@
 #!/bin/bash
-file /school.mgc/school/*.txt
+ echo -e '0 string SCHOOL School data\n!:mime School'>school
