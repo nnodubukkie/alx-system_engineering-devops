@@ -1,1 +1,1 @@
-commas not period
+school string
