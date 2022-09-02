@@ -1,1 +1,1 @@
-symbolic links
+sym links
