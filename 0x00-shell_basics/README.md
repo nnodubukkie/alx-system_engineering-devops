@@ -1,1 +1,1 @@
-copy new html files
+move uppercase
