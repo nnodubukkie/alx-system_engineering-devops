@@ -1,1 +1,1 @@
-make superuser
+who am i
