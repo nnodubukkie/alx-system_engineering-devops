@@ -1,1 +1,1 @@
-list hidden file
+write iamafile
