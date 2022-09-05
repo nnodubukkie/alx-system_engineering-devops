@@ -1,1 +1,1 @@
-count the word
+I hate bins
