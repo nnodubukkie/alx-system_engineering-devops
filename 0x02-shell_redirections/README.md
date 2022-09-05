@@ -1,1 +1,1 @@
-display 2file content
+10 last lines of a file
