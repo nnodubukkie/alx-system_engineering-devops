@@ -1,1 +1,1 @@
-9-duplicate_last_line
+delete .js files
