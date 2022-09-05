@@ -1,1 +1,1 @@
-delete .js files
+make directories count
