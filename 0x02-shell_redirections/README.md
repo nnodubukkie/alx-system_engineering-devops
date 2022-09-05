@@ -1,1 +1,1 @@
-letters only
+replace A with Z
