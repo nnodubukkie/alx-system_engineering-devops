@@ -1,1 +1,1 @@
-binary to decimal
+12-combination
